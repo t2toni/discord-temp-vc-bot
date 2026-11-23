@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🎙️ Discord Temp VC & Economy Bot (T3)
-### Enterprise-Grade Asynchronous Discord Bot with Dynamic Economy, Voice Tracking, and Role Monetization
+# 🪙 Discord Economy Bot (T3)
+### Enterprise-Grade Asynchronous Discord Bot with Virtual Currency, Leveling, and Role Monetization
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-v2.3%2B-blueviolet?logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
@@ -20,7 +20,7 @@
 
 ## 📌 Project Overview
 
-**Discord Temp VC & Economy Bot** is a high-performance Discord application designed to drive community engagement through gamification. The bot automatically tracks voice channel participation, monitors chat activity with anti-spam rate limiting, rewards virtual currency and XP, provides interactive betting mini-games, and offers a fully automated role shop with expiring timed subscriptions.
+**Discord Economy Bot (T3)** is a high-performance Discord application designed to drive community engagement through a complete virtual economy and gamification system. The bot features real-time chat and voice activity rewards with anti-spam rate limiting, interactive gambling mini-games (coinflip), a rich XP & leveling progression system, and a fully automated role shop with expiring timed subscriptions.
 
 Developed as a portfolio centerpiece for **Python / Backend Developer** roles, this project highlights:
 - **Asynchronous Concurrency**: Non-blocking network I/O and background task scheduling using `asyncio` and `discord.py` 2.0+.
